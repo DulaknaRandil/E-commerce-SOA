@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>E_commerce_SOA.BussinessLayer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>b6f83e29-a55a-4b4c-aa82-ccae3d32cfae</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DBContext\**" />
+    <EmbeddedResource Remove="DBContext\**" />
+    <None Remove="DBContext\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="DBContext\CartItem.cs" />
+    <Compile Include="DBContext\CategoryContext.cs" />
+    <Compile Include="DBContext\OrderContext.cs" />
+    <Compile Include="DBContext\OrderItemContext.cs" />
+    <Compile Include="DBContext\PaymentMethodContext.cs" />
+    <Compile Include="DBContext\ProductContext.cs" />
+    <Compile Include="DBContext\ShoppingCartContext.cs" />
+    <Compile Include="DBContext\UserAddressContext.cs" />
+    <Compile Include="DBContext\UserLoginContext.cs" />
+    <Compile Include="DBContext\UserRegisterContext.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-commerce-SOA.Entities\E-commerce-SOA.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.BussinessLayer.deps.json
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.BussinessLayer.runtimeconfig.json
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.BussinessLayer.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.BussinessLayer.pdb
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.Entities.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\bin\Debug\net8.0\E-commerce-SOA.Entities.pdb
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.csproj.AssemblyReference.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.AssemblyInfoInputs.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.AssemblyInfo.cs
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.csproj.CopyComplete
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\refint\E-commerce-SOA.BussinessLayer.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.pdb
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\E-commerce-SOA.BussinessLayer.genruntimeconfig.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.BussinessLayer\obj\Debug\net8.0\ref\E-commerce-SOA.BussinessLayer.dll

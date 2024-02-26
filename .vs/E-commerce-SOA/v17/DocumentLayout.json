@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming projects\\.NET\\E-commerce-SOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\dbcontext\\orderitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\dbcontext\\orderitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\dbcontext\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\dbcontext\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\userregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\userregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\dbcontext\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\dbcontext\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\dbcontext\\shoppingcartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\dbcontext\\shoppingcartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\getuserregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\getuserregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\reposotories\\getuserregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\reposotories\\getuserregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.bussinesslayer\\dbcontext\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB393D7-0511-4D13-9A33-4D51DCE7ADF1}|E-commerce-SOA.BussinessLayer\\E-commerce-SOA.BussinessLayer.csproj|solutionrelative:e-commerce-soa.bussinesslayer\\dbcontext\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\dbcontext\\e_commercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\dbcontext\\e_commercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\migrations\\20240226000430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\migrations\\20240226000430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{589F5046-3552-47D6-B70C-D0E52343A336}|E-commerce-SOA.API\\E-commerce-SOA.API.csproj|solutionrelative:e-commerce-soa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.core\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|solutionrelative:e-commerce-soa.core\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.core\\notimplementedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|solutionrelative:e-commerce-soa.core\\notimplementedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.core\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|solutionrelative:e-commerce-soa.core\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.core\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE7CA9F-85D8-4002-A3A1-FECDBD48C60B}|E-commerce-SOA.Core\\E-commerce-SOA.Core.csproj|solutionrelative:e-commerce-soa.core\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|d:\\programming projects\\.net\\e-commerce-soa\\e-commerce-soa.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C2316C-D9EF-472B-9B1C-B9CE4AB7EE1D}|E-commerce-SOA.Entities\\E-commerce-SOA.Entities.csproj|solutionrelative:e-commerce-soa.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\OrderItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:14:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\CartItemController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:19:32.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:58:47.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:08:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegisterController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\UserRegisterController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\UserRegisterController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\UserRegisterController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\UserRegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:43:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:37:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\OrderItemContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\DBContext\\OrderItemContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\OrderItemContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\DBContext\\OrderItemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:32:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Program.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Program.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T01:53:31.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:26:59.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\OrderContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\DBContext\\OrderContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\OrderContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\DBContext\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:28:49.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\OrderService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:31:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\OrderRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\OrderRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:32:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\OrderItemService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\OrderItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:20:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\CartItem.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:29:30.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\Order.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Order.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:31:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\OrderItemRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\OrderItemRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\OrderItemRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwv1IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:22:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\OrderItem.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:36:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\CartItemService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\CartItemService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\CartItemService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\CartItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:53:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\CartItemRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\CartItemRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\CartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:54:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\ShoppingCartService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\ShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:27:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\ShoppingCartRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:28:17.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRegistrationRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\UserRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\UserRegistrationRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\UserRegistrationRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\UserRegistrationRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T00:34:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\CategoryRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvygAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:56:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\CategoryContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\DBContext\\CategoryContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\CategoryContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\DBContext\\CategoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:59:59.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRegisterService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\UserRegisterService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\UserRegisterService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\UserRegisterService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\UserRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:04:02.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:17:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\ShoppingCartContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\DBContext\\ShoppingCartContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\ShoppingCartContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\DBContext\\ShoppingCartContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:16:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\CategoryService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:54:40.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetUserRegistrationRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\GetUserRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\GetUserRegistrationRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\GetUserRegistrationRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\GetUserRegistrationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:18:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetUserRegisterService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\GetUserRegisterService.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Services\\GetUserRegisterService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Services\\GetUserRegisterService.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Services\\GetUserRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:17:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\ProductContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\DBContext\\ProductContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\DBContext\\ProductContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\DBContext\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:42:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "E_CommerceContext.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\DBContext\\E_CommerceContext.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\DBContext\\E_CommerceContext.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\DBContext\\E_CommerceContext.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\DBContext\\E_CommerceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:17:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.BussinessLayer\\Reposotories\\ProductRepository.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.BussinessLayer\\Reposotories\\ProductRepository.cs",
+              "RelativeToolTip": "E-commerce-SOA.BussinessLayer\\Reposotories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:39:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\Product.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Product.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:02:52.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\UserRegister.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\UserRegister.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\UserRegister.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:18:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240226000430_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Migrations\\20240226000430_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\Migrations\\20240226000430_InitialCreate.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\Migrations\\20240226000430_InitialCreate.cs",
+              "RelativeToolTip": "E-commerce-SOA.API\\Migrations\\20240226000430_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:20:38.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\appsettings.json",
+              "RelativeDocumentMoniker": "E-commerce-SOA.API\\appsettings.json",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.API\\appsettings.json",
+              "RelativeToolTip": "E-commerce-SOA.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T06:08:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Core\\BadRequestException.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\BadRequestException.cs",
+              "RelativeToolTip": "E-commerce-SOA.Core\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:47:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotImplementedException.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\NotImplementedException.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Core\\NotImplementedException.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\NotImplementedException.cs",
+              "RelativeToolTip": "E-commerce-SOA.Core\\NotImplementedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:19:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UnauthorizedAccessException.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\UnauthorizedAccessException.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Core\\UnauthorizedAccessException.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\UnauthorizedAccessException.cs",
+              "RelativeToolTip": "E-commerce-SOA.Core\\UnauthorizedAccessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:21:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Core\\NotFoundException.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Core\\NotFoundException.cs",
+              "RelativeToolTip": "E-commerce-SOA.Core\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:45:57.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\UserAddress.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\UserAddress.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\UserAddress.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\UserAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:43:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Userlogin.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Userlogin.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\Userlogin.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Userlogin.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\Userlogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:48:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:51:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-commerce-SOA.Entities\\Models\\Category.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\E-commerce-SOA\\E-commerce-SOA.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "E-commerce-SOA.Entities\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:07:42.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

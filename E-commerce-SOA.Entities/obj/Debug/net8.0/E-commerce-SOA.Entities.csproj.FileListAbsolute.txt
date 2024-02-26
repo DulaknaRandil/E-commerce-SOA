@@ -1,0 +1,14 @@
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\bin\Debug\net8.0\E-commerce-SOA.Entities.deps.json
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\bin\Debug\net8.0\E-commerce-SOA.Entities.runtimeconfig.json
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\bin\Debug\net8.0\E-commerce-SOA.Entities.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\bin\Debug\net8.0\E-commerce-SOA.Entities.pdb
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.csproj.AssemblyReference.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.AssemblyInfoInputs.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.AssemblyInfo.cs
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.csproj.CoreCompileInputs.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\refint\E-commerce-SOA.Entities.dll
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.pdb
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\E-commerce-SOA.Entities.genruntimeconfig.cache
+D:\Programming projects\.NET\E-commerce-SOA\E-commerce-SOA.Entities\obj\Debug\net8.0\ref\E-commerce-SOA.Entities.dll

@@ -1,0 +1,6 @@
+@E_commerce_SOA.API_HostAddress = http://localhost:5051
+
+GET {{E_commerce_SOA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
